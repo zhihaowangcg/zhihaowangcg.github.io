@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Zhihao Wang"
-title_separator          : "_"
+title_separator          : "-"
 name                     : &name "Zhihao Wang"
 description              : &description "personal description"
 url                      : https://wangzhihaocg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
