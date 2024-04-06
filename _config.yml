@@ -26,15 +26,15 @@ author:
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Computer graphics, Computer aided geometric design, Isogeometric analysis "
   location         : "Hangzhou, China"
-  employer         : "Red Brick University"
+  employer         : "Hangzhou Dianzi University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wzh1226@hdu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-6348-7125"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
