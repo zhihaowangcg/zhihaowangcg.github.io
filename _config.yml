@@ -21,7 +21,7 @@ repository               : "wangzhihaocg/wangzhihaocg.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wzh.png"
+  avatar           : "profile.png"
   name             : "Zhihao Wang (王志好)"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Computer graphics, Computer aided geometric design, Isogeometric analysis "
