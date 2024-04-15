@@ -6,9 +6,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a lecturer in the Hangzhou Dianzi University, Hangzhou, China. My current research is concerned with isogeometric analysis. My interests are computer graphics,computer aided geometric design and geometric modeling.
+I am an Assistant Professor in the Hangzhou Dianzi University, Hangzhou, China. My current research is concerned with isogeometric analysis. My interests are computer graphics,computer aided geometric design and geometric modeling.
 
 
+Publications
+------
+ 1. **Zhihao Wang**, Juan Cao, Xiaodong Wei, Zhonggui Chen, Hugo Casquero, Yongjie Jessica Zhang. Kirchhoff–Love shell representation and analysis using triangle configuration -splines. ***Computer Methods in Applied Mechanics and Engineering***, 2023, 416, 116316. [[**Full Article**]](https://www.sciencedirect.com/science/article/abs/pii/S0045782523004401)
+
+ 2. **Zhihao Wang**, Yajuan Li, Huixia Xu, Jianzhen Liu, Chongyang Deng. P-spline curves, Visual Computer, 2023, 10, 4697-4707.  [[**Full Article**]](https://link.springer.com/article/10.1007/s00371-022-02618-8)
+
+ 3. **Zhihao Wang**, Yajuan Li, Jianzhen Liu, Weiyin Ma, Chongyang Deng. Gauss–Seidel progressive iterative approximation (GS-PIA) for subdivision surface interpolation, Visual Computer, 2023, 39, 1-10. [[**Full Article**]](https://link.springer.com/article/10.1007/s00371-021-02318-9)
+
+
+ 4. **Zhihao Wang**, Juan Cao, Xiaodong Wei, Yongjie Jessica Zhang. TCB-spline-based isogeometric analysis method with high-quality parameterizations. ***Computer Methods in Applied Mechanics and Engineering***, 2022, 393, 114771. [[**Full Article**]](https://www.sciencedirect.com/science/article/abs/pii/S0045782522001153)
+
+ 5. Chongyang Deng, **Zhihao Wang**, Jianzhen Liu, Huixia Xu, Qianqian Hu. FC-NURBS curves: fullness control non-uniform rational B-spline curves, Communications in Information and Systems, 2022, 22, 131-146. [[**Full Article**]](https://www.intlpress.com/site/pub/pages/journals/items/cis/content/vols/0022/0001/a006/)
+
+ 6. **Zhihao Wang**, Yajuan Li, Weiyin Ma, Chongyang Deng. Positive and smooth Gordon-Wixom coordinates. Computer Aided Geometric Design. 2019, 74, 101774. [[**Full Article**]](https://www.sciencedirect.com/science/article/abs/pii/S0167839619300834)
+
+ 7. **Zhihao, Wang**, Li Yajuan, and Deng Chongyang. Convergence proof of GS-PIA algorithm. Journal of Computer-Aided Design & Computer Graphics 2018, 30, 2035-2041. [[**Full Article**]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2018.17099?viewType=citedby-info)
 
 
 <!-- Getting started
